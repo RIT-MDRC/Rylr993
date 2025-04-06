@@ -1,7 +1,5 @@
 #include "Rylr993.h"
 
-#define OPMODE_UNSETABLE 665
-
 String _address = "";
 
 Rylr998::Rylr998(HardwareSerial &port, String address) {
